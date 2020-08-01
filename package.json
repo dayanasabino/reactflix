@@ -18,7 +18,7 @@
   "scripts": {
     "server": "node ./server.js",
     "dev": "concurrently \"react-scripts start\" \"yarn server\"",
-    "start": "yarn server",
+    "start": "npm run server",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
