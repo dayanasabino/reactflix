@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Coragem - O cão covarde",
+            "descricao": "Coragem - O cão covarde - 1996 - 1ª temporada",
+            "cor": "#AE2B89"
+        },
+        {
+            "id": 2,
+            "nome": "O Laboratório de Dexter",
+            "descricao": "O Laboratório de Dexter - 1995 - 1ª temporada",
+            "cor": "#AE3400"
+        }
+    ]
+}
